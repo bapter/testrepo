@@ -1,2 +1,2 @@
-##secondary
-###tertiary
+## secondary heading 
+### tertiary heading
